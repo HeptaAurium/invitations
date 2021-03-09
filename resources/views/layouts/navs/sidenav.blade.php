@@ -1,0 +1,1 @@
+<div class="w-100 bg-white rounded shadow-sm" style="min-height: 100vh;"></div>
